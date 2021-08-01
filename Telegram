@@ -1,0 +1,32 @@
+<div class="widget-content">  
+ <a class="halptipsmarwad discount dis-31" href="
+# Your Telegram Channel URL Here (Example: https://t.me/yourname)
+"target="_blank">  
+ <div class="halptipsmarwad-content">  
+ <span class="title">
+Join Our Telegram Channel
+</span>  
+ <span class="desc">
+To Get Latest Notification!
+</span>  
+ </div>  
+ <div class="halptipsmarwad-img"><span><svg enable-background="new 0 0 24 24" height="512" viewbox="0 0 24 24" width="512" xmlns="http://www.w3.org/2000/svg"><path d="m9.417 15.181-.397 5.584c.568 0 .814-.244 1.109-.537l2.663-2.545 5.518 4.041c1.012.564 1.725.267 1.998-.931l3.622-16.972.001-.001c.321-1.496-.541-2.081-1.527-1.714l-21.29 8.151c-1.453.564-1.431 1.374-.247 1.741l5.443 1.693 12.643-7.911c.595-.394 1.136-.176.691.218z" fill="#039be5"></path></svg></span></div>  
+ </a>  
+ <style>  
+ /* Widget Promo Produk */  
+ .halptipsmarwad{position:relative;display:flex;align-items:center;width:100%;background-color:#fefefe;margin:15px 0 0;padding:12px 15px;border:1px solid #ebeced;border-radius:3px;color:#161617;overflow:hidden}  
+ .halptipsmarwad .halptipsmarwad-img{width:50px;height:50px}  
+ .halptipsmarwad .halptipsmarwad-img span{display:flex;align-items:center;justify-content:center;height:100%;background-color:#ebeced;border-radius:8px;color:#505050;font-weight:700;font-size:28px}  
+ .halptipsmarwad .halptipsmarwad-content{width:calc(100% - 50px);padding-right:15px}  
+ .halptipsmarwad .halptipsmarwad-content .title{display:block;font-weight:700;font-size:12px;margin:0}  
+ .halptipsmarwad .halptipsmarwad-content .desc{display:block;font-size:11px;margin-top:2px;color:#505050}  
+ .halptipsmarwad.fletro{border:0;background-color:#CFEDEB;box-shadow:0 4px 18px 0 rgba(9,32,76,.035);justify-content:space-between;padding:0;overflow:visible}  
+ .halptipsmarwad.fletro .halptipsmarwad-content{width:calc(100% - 100px);padding:15px 10px 15px 15px}  
+ .halptipsmarwad.fletro .halptipsmarwad-img{width:100px;height:auto;flex-shrink:0}  
+ .halptipsmarwad.fletro .halptipsmarwad-img img{position:absolute;bottom:0;right:0;max-width:110px}  
+ .halptipsmarwad.discount:after{content:'Join';font-weight:700;font-size:12px;display:flex;align-items:center;justify-content:flex-end;width:55px;height:22px;padding-right:10px;background-color:#9bd8fc;border-radius:80px 0 0 0;color:#fff;position:absolute;bottom:0;right:0}  
+ .dark-mode .halptipsmarwad{color:#161617}  
+ .night-mode .halptipsmarwad{color:#f7f7f7;background-color:#202442; border: 1px solid #edeef0}  
+ .night-mode .penawaran1 .penawaran1-img span{background-color:#003366}  
+ </style>  
+ </div>
