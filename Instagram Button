@@ -1,0 +1,33 @@
+<div class="widget-content">  
+ <a class="tipsmarwadi discount dis-31" href="
+# Your Instagram Profile URL Here
+" target="_blank">  
+ <div class="tipsmarwadi-content">  
+ <span class="title">
+If You Are Facing Any Issue !
+</span>  
+ <span class="desc">
+Message Me Any Time on Insta.
+</span>  
+ </div>  
+ <div class="tipsmarwadi-img"><span>  
+ <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16"><lineargradient id="a" x1="1.464" x2="14.536" y1="14.536" y2="1.464" gradientunits="userSpaceOnUse"><stop offset="0" stop-color="#FFC107"/><stop offset=".507" stop-color="#F44336"/><stop offset=".99" stop-color="#9C27B0"/></stop></stop></stop></lineargradient><path fill="url(#a)" d="M11 0H5a5 5 0 0 0-5 5v6a5 5 0 0 0 5 5h6a5 5 0 0 0 5-5V5a5 5 0 0 0-5-5zm3.5 11c0 1.93-1.57 3.5-3.5 3.5H5c-1.93 0-3.5-1.57-3.5-3.5V5c0-1.93 1.57-3.5 3.5-3.5h6c1.93 0 3.5 1.57 3.5 3.5v6z"/><lineargradient id="b" x1="5.172" x2="10.828" y1="10.828" y2="5.172" gradientunits="userSpaceOnUse"><stop offset="0" stop-color="#FFC107"/><stop offset=".507" stop-color="#F44336"/><stop offset=".99" stop-color="#9C27B0"/></stop></stop></stop></lineargradient><path fill="url(#b)" d="M8 4a4 4 0 1 0 0 8 4 4 0 0 0 0-8zm0 6.5A2.503 2.503 0 0 1 5.5 8c0-1.379 1.122-2.5 2.5-2.5s2.5 1.121 2.5 2.5c0 1.378-1.122 2.5-2.5 2.5z"/><lineargradient id="c" x1="11.923" x2="12.677" y1="4.077" y2="3.323" gradientunits="userSpaceOnUse"><stop offset="0" stop-color="#FFC107"/><stop offset=".507" stop-color="#F44336"/><stop offset=".99" stop-color="#9C27B0"/></stop></stop></stop></lineargradient><circle cx="12.3" cy="3.7" r=".533" fill="url(#c)"/></circle></path></path></svg></span></div>  
+ </a>  
+ <style>  
+ /* Widget Promo Produk */  
+ .tipsmarwadi-in{position:relative;display:flex;align-items:center;width:100%;background-color:#fefefe;margin:15px 0 0;padding:12px 15px;border:1px solid #ebeced;border-radius:3px;color:#161617;overflow:hidden}  
+ .tipsmarwadi-in .tipsmarwadi-in-img{width:50px;height:50px}  
+ .tipsmarwadi-in .tipsmarwadi-in-img span{display:flex;align-items:center;justify-content:center;height:100%;background-color:#ebeced;border-radius:8px;color:#505050;font-weight:700;font-size:28px}  
+ .tipsmarwadi-in .tipsmarwadi-in-content{width:calc(100% - 50px);padding-right:15px}  
+ .tipsmarwadi-in .tipsmarwadi-in-content .title{display:block;font-weight:700;font-size:12px;margin:0}  
+ .tipsmarwadi-in .tipsmarwadi-in-content .desc{display:block;font-size:11px;margin-top:2px;color:#505050}  
+ .tipsmarwadi-in.fletro{border:0;background-color:#CFEDEB;box-shadow:0 4px 18px 0 rgba(9,32,76,.035);justify-content:space-between;padding:0;overflow:visible}  
+ .tipsmarwadi-in.fletro .tipsmarwadi-in-content{width:calc(100% - 100px);padding:15px 10px 15px 15px}  
+ .tipsmarwadi-in.fletro .tipsmarwadi-in-img{width:100px;height:auto;flex-shrink:0}  
+ .tipsmarwadi-in.fletro .tipsmarwadi-in-img img{position:absolute;bottom:0;right:0;max-width:110px}  
+ .tipsmarwadi-in.discount:after{content:'Follow Me';font-weight:700;font-size:12px;display:flex;align-items:center;justify-content:flex-end;width:92px;height:22px;padding-right:10px;background-color:#fb3958;border-radius:80px 0 0 0;color:#fff;position:absolute;bottom:0;right:0}  
+ .dark-mode .tipsmarwadi-in{color:#161617}  
+ .night-mode .tipsmarwadi-in{color:#f7f7f7;background-color:#202442; border: 1px solid #edeef0}  
+ .night-mode .penawaran1 .penawaran1-img span{background-color:#003366}  
+ </style>  
+ </div>
